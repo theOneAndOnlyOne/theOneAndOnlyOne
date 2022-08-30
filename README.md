@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joshua</h1>
 <h3 align="center">Software Developer, Video Editor, Part Mark Professor studying Engineering</h3>
 
-- 🔭 I’m currently working on **Project Peppermint (private)** and an unamed personal Unity Game
+- 🔭 I’m currently working on **Project Peppermint, Train, Polaris (private)** and an unamed personal Unity Game
 
 - 🌱 I’m currently learning **Unity, Three.js and other Front-end tools**
 
