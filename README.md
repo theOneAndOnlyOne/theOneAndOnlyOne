@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [REDACTED]
 
-- 🌱 I’m currently learning **Unity, Three.js and other Front-end tools**
-
 - 👨‍💻 All of my projects are available at [https://theoneandonlyone.github.io/](https://theoneandonlyone.github.io/)
 
 - 📫 How to reach me **joshgonzales9891@gmail.com**
