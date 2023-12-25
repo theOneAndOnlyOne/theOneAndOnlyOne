@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joshua</h1>
-<h3 align="center">Software Developer, Video Editor, Part Mark Professor studying Engineering</h3>
+<h3 align="center">Software Engineer, Video Editor, Part Mark Professor studying Engineering</h3>
 
 - 🔭 I’m currently working on [REDACTED]
 
