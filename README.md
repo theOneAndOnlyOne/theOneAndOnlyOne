@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [REDACTED]
 
-- 👨‍💻 All of my projects are available at [https://theoneandonlyone.github.io/](https://theoneandonlyone.github.io/)
+- 👨‍💻 All of my projects are available at https://theoneandonlyone.github.io/portfolio_2024/
 
 - 📫 How to reach me **joshgonzales9891@gmail.com**
 
